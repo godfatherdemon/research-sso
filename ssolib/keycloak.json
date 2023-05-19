@@ -1,0 +1,9 @@
+{
+  "realm": "myrealm",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "external",
+  "resource": "sso-app",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAki7VRr4dlENK6DGGZK+ga9ub7WXAYc0ZQZbqFG9CM1QunZTDv7gzH/8OTNE6astSHGbxhtoyZp08xMglmZl/V/2xtr3no2fAIE6INw86NQtepu2D2BJcxWDoLBS5gbAupd3TF9DePyn6J40wvrvpgSm32/RirIz14SCORt6Jjmrvvf+6J8l+ZJmLraQOqGi4PNtT+NLfbA7eG1SZoQW1vtrBsIztSgiOPnildbc5Re2C03aSH+s3cjzvFCQGBjGP42D8UalIxTR0QITZST++MigXE6yG3f5cHEMjzsoFVjujH653B0jWsMwHCVhA1MbOmCKlqxr8efzC4vSYV6sSQwIDAQAB",
+  "public-client": false,
+  "client-secret": "8JK2lDStYxkWR0QG0CeJ12zIRkKafv5c"
+}
